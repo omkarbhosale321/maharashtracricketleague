@@ -1,4 +1,4 @@
-// name of file is index.php
+
 
 <?php
 
